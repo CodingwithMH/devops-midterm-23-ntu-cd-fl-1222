@@ -1,0 +1,29 @@
+{
+  "name": "devops-midterm-23-ntu-cd-fl-1222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/shipping.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingwithMH/devops-midterm-23-ntu-cd-fl-1222.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingwithMH/devops-midterm-23-ntu-cd-fl-1222/issues"
+  },
+  "homepage": "https://github.com/CodingwithMH/devops-midterm-23-ntu-cd-fl-1222#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.15.0",
+    "globals": "^17.14.0"
+  }
+}
